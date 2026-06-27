@@ -23,7 +23,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	e2types "github.com/wealdtech/go-eth2-types/v2"
-	util "github.com/wealdtech/go-eth2-util"
+	util "github.com/wealdtech/go-silaconsensus-util"
 )
 
 func _bigInt(input string) *big.Int {

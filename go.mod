@@ -1,4 +1,4 @@
-module github.com/wealdtech/go-eth2-util
+module github.com/wealdtech/go-silaconsensus-util
 
 go 1.12
 

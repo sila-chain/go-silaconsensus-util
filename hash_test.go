@@ -17,7 +17,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	util "github.com/wealdtech/go-eth2-util"
+	util "github.com/wealdtech/go-silaconsensus-util"
 )
 
 func TestSHA256(t *testing.T) {
