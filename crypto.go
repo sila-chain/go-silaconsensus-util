@@ -22,7 +22,7 @@ import (
 
 	"github.com/pkg/errors"
 	bytesutil "github.com/wealdtech/go-bytesutil"
-	e2types "github.com/wealdtech/go-eth2-types/v2"
+	e2types "github.com/wealdtech/go-silaconsensus-types/v2"
 	"golang.org/x/crypto/hkdf"
 )
 
