@@ -1,10 +1,10 @@
-# go-eth2-util
+# go-silaconsensus-util
 
-[![Tag](https://img.shields.io/github/tag/wealdtech/go-eth2-util.svg)](https://github.com/sila-chain/go-silaconsensus-util/releases/)
-[![License](https://img.shields.io/github/license/wealdtech/go-eth2-util.svg)](LICENSE)
+[![Tag](https://img.shields.io/github/tag/sila-chain/go-silaconsensus-util.svg)](https://github.com/sila-chain/go-silaconsensus-util/releases/)
+[![License](https://img.shields.io/github/license/sila-chain/go-silaconsensus-util.svg)](LICENSE)
 [![GoDoc](https://godoc.org/github.com/sila-chain/go-silaconsensus-util?status.svg)](https://godoc.org/github.com/sila-chain/go-silaconsensus-util)
-[![Travis CI](https://img.shields.io/travis/wealdtech/go-eth2-util.svg)](https://travis-ci.org/wealdtech/go-eth2-util)
-[![codecov.io](https://img.shields.io/codecov/c/github/wealdtech/go-eth2-util.svg)](https://codecov.io/github/wealdtech/go-eth2-util)
+[![Travis CI](https://img.shields.io/travis/sila-chain/go-silaconsensus-util.svg)](https://travis-ci.org/sila-chain/go-silaconsensus-util)
+[![codecov.io](https://img.shields.io/codecov/c/github/sila-chain/go-silaconsensus-util.svg)](https://codecov.io/github/sila-chain/go-silaconsensus-util)
 
 Go library providing utilities for Ethereum 2.
 
@@ -20,7 +20,7 @@ Go library providing utilities for Ethereum 2.
 
 ## Install
 
-`go-eth2-util` is a standard Go module which can be installed with:
+`go-silaconsensus-util` is a standard Go module which can be installed with:
 
 ```sh
 go get github.com/sila-chain/go-silaconsensus-util

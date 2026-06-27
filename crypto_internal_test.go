@@ -19,7 +19,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	bytesutil "github.com/wealdtech/go-bytesutil"
+	bytesutil "github.com/sila-chain/go-bytesutil"
 )
 
 func _byteArray(input string) []byte {

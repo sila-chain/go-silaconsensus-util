@@ -21,7 +21,7 @@ import (
 	"strings"
 
 	"github.com/pkg/errors"
-	bytesutil "github.com/wealdtech/go-bytesutil"
+	bytesutil "github.com/sila-chain/go-bytesutil"
 	e2types "github.com/sila-chain/go-silaconsensus-types/v2"
 	"golang.org/x/crypto/hkdf"
 )
