@@ -12,7 +12,7 @@ require (
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/ferranbt/fastssz v0.1.3 // indirect
+	github.com/sila-chain/fastssz v0.1.3 // indirect
 	github.com/herumi/bls-eth-go-binary v1.31.0 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.5 // indirect
 	github.com/minio/sha256-simd v1.0.1 // indirect
